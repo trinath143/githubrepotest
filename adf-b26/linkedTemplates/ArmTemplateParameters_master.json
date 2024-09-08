@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adf-b26"
+		},
+		"LS_Dev_ADB_accessToken": {
+			"value": ""
+		},
+		"LS_Dev_ADB_properties_typeProperties_existingClusterId": {
+			"value": "0903-105328-yz2i0l0j"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
